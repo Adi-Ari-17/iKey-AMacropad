@@ -1,0 +1,16 @@
+.build/
+.qmk/
+*.uf2
+*.hex
+*.elf
+*.bin
+*.log
+.DS_Store
+.vscode/
+__pycache__/
+node_modules/
+*.swp
+*.swo
+.idea/
+*.bak
+*.tmp
