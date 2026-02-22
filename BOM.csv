@@ -1,0 +1,9 @@
+Ref,Quantity,Part,Description,Preferred Supplier,Product / Link,Notes
+MCU,1,Seeed XIAO RP2040,RP2040-based microcontroller board,Seeed Studio,https://www.seeedstudio.com/Seeed-XIAO-RP2040-p-XXXXXX,Used as controller
+PCB,1,ikeyv3 PCB,3x3 custom PCB,Your PCB fab,link-to-gerbers-or-fab,Provide gerbers in releases
+SW,9,Mechanical switch,3x3 switches (e.g., Cherry MX / Kailh),Multiple,https://example.com/switch,Choose preferred switch
+DIO,9,1N4148,Signal diodes for key matrix,Multiple,https://example.com/1n4148,Or SMD equivalent
+CONN,1,USB-C connector,USB Type-C breakout or on-board connector,Multiple,https://example.com/usb-c,
+SOLDER,Various,Solder and flux,For assembly,,,
+MISC,1,Standoffs/screws,Mounting hardware,Local supplier,,Depends on case design
+CASE,1,MacropadCase.step,3D STEP file for case,Design file,case/MacropadCase.step,Included in repo
