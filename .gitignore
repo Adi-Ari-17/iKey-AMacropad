@@ -1,6 +1,7 @@
 .build/
 .qmk/
 *.uf2
+!production/firmware/*.uf2
 *.hex
 *.elf
 *.bin
