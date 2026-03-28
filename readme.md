@@ -1,8 +1,8 @@
 # ikeyv3 — 3x3 Macropad
 
-Simple 3x3 macropad designed by Aditya Narravula for Hack Club. I built this as my first PCB project and as my first keybaord project. I tinkered with some key switches and an arduino at home while doing this to give me a sense for how a keyboard matrix works (It helped a lot). Overall I am decently happy with this design as it is my first. H
+Simple 3x3 macropad designed by Aditya Narravula for Hack Club. I built this as my first PCB project and as my first keybaord project. I tinkered with some key switches and an arduino at home while doing this to give me a sense for how a keyboard matrix works (It helped a lot). Overall I am decently happy with this design as it is my first. 
 
-<img width="364" height="338" alt="Screenshot 2026-03-12 at 6 19 18 AM" src="https://github.com/user-attachments/assets/6b69b1dc-609d-4d9a-b66e-8ae0c69ae1eb" />
+<img width="363" height="238" alt="Screenshot 2026-03-27 at 8 10 19 PM" src="https://github.com/user-attachments/assets/535d52c0-0333-421d-9f18-65fea102b6a0" />
 
 I didn't know you could upload the PCB from kicad before this pic so it is a blank rectangle
 
