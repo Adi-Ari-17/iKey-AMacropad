@@ -12,7 +12,7 @@ This is the 3d viewer in Kicad's PCB editor.
 
 <img width="367" height="283" alt="Screenshot 2026-03-27 at 8 19 31 PM" src="https://github.com/user-attachments/assets/76192df5-7030-4984-93af-a51c8eaabc41" />
 
-This is my PCB diagram I tried this fill thing (Red Fill) which wasn't the greatist but I wanna check it out with the PCB.
+This is my PCB diagram I had to rewire this since the outlet wasn't facing one of the edges.
 
 <img width="606" height="342" alt="Screenshot 2026-03-27 at 8 19 01 PM" src="https://github.com/user-attachments/assets/da0aef9a-8df2-45f8-8b17-bd90f1c278c2" />
 
